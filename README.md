@@ -1,2 +1,2 @@
 # Google-doc-clone
-collaboratory type editor
+collaboratory text editor
